@@ -1,11 +1,10 @@
-var GHPATH = '/davepele102';
-var APP_PREFIX = 'dp102';
-var VERSION = 'version_002';
+var GHPATH = '/davepele102.github.io';
+var APP_PREFIX = 'dp102_';
+var VERSION = 'version_00';
 var URLS = [    
   `${GHPATH}/`,
   `${GHPATH}/index.html`,
   `${GHPATH}/index.css`,
-  `${GHPATH}/img/icon.png`,
 ]
 
 var CACHE_NAME = APP_PREFIX + VERSION
