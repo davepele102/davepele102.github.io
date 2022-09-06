@@ -1,6 +1,6 @@
 var GHPATH = '/davepele102.github.io';
 var APP_PREFIX = 'dp102_';
-var VERSION = 'version_00';
+var VERSION = 'version_002';
 var URLS = [    
   `${GHPATH}/`,
   `${GHPATH}/index.html`,
